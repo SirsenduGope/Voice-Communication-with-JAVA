@@ -1,0 +1,37 @@
+ 	
+	//Mouse event and keyboard key press event
+	Robot robot = new Robot();
+        robot.mouseMove(10,10);
+        
+        robot.keyPress(KeyEvent.VK_CONTROL);
+        robot.keyPress(KeyEvent.VK_SHIFT);
+        robot.keyPress(KeyEvent.VK_O);
+        
+        robot.keyRelease(KeyEvent.VK_CONTROL);
+        robot.keyRelease(KeyEvent.VK_SHIFT);
+        robot.keyRelease(KeyEvent.VK_O);
+
+	
+	//Text to speech
+	String VOICENAME = "kevin16";
+        Voice voice;
+        VoiceManager vm = VoiceManager.getInstance();
+        voice = vm.getVoice(VOICENAME);
+        voice.allocate();
+        try{
+            voice.speak("Hello World");
+        }catch(Exception e){
+            
+        }
+
+
+
+	if(command.equalsIgnoreCase("open browser")){
+                work = "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe";
+            }else if(command.equalsIgnoreCase("close browser")){
+                work = "TaskKill /IM chrome.exe";
+            }else if(command.equalsIgnoreCase("file manager")){
+                work = "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe";
+            }else if(command.equalsIgnoreCase("close file manager") || command.equalsIgnoreCase("close manager") ){
+                work = "TaskKill /IM chrome.exe";
+            }

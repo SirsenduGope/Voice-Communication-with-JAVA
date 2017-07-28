@@ -1,0 +1,27 @@
+1. Notepad: start notepad
+2. Paint : start mspaint
+3. Wordpad: start write.exe
+4. Onscreen Keyboard: start osk
+
+5. Disc Clean up: c:/windows/system32/cleanmgr.exe
+6. Device Manager: start devmgmt.msc
+7. System Configuration: start msconfig
+8. System Information: start systeminfo
+9. Windows Firewall: start wf.msc
+10. Sound Recorder: start soundrecorder
+11. Windows Media Player: start mplayer2.exe
+12. Windows Power Shell: start powershell
+13. Snipping Tools: start snippingtool
+14. Calculator: start calc
+15. My Computer: start explorer
+16. Internet Explorer: start iexplore
+17. Microsoft Word: start winword
+18. Microsoft Excel: start excel
+19. Microsoft Power Point: start powerpnt
+20. Microsoft Access: start msaccess
+21. Microsoft Publisher: start mspub
+22. Microsoft Outlook: start outlook
+23. Microsoft Picture Manager: start ois
+24. Microsoft InfoPath: start infopath
+25. Microsoft OneNote: start onenote
+26. VLC Media Player: c:/program filse/videoLAN/VLC/vlc.exe

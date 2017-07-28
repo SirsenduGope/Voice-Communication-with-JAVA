@@ -1,0 +1,54 @@
+_____________________------------------_____________________---------------------_______________________
+									Time Related Question
+_____________________------------------_____________________---------------------_______________________
+
+1. What is the time?
+Ans: 
+2. What is the current time?
+3. What time it is?
+4. Time?
+5. I want to know the time?
+6. Current time?
+7. Can you tell me the current time?
+8. Tell me the current time?
+9. What is the difference between the current time and GMT?
+10. When the computer last restarted?
+
+_____________________------------------_____________________---------------------_______________________
+									Date and Day Related Question
+_____________________------------------_____________________---------------------_______________________
+
+1. Today date?
+2. Can you tell me the date please?
+3. Please tell me the date?
+4. What is today's date?
+5. Date?
+6. What date it is?
+7. Tell me the current date?
+8. Can you tell me the day name?
+9. Which day it is?
+10. Tell me the current day?
+
+
+_____________________------------------_____________________---------------------_______________________
+									Basic Information of Computer Related Question
+_____________________------------------_____________________---------------------_______________________
+
+1. What is your name?
+2. What is the Hard Disk size of your?---
+3. What is the RAM capacity of your?---
+4. What is processor of your?
+5. What is the name and version of current Operating System running on you?
+6. How many drive you have on your system?
+7. How to open notepad from Run window?
+8. How much free space available on you?---
+9. Tell me the step of Restarting/Shutdown/Power Off/Hibernet.
+10. Can you tell me the step of Restarting/Shutdown/Power Off/Hibernet?
+11. Is the Operating System activated?
+12. When the Operating System last time updated for the last time?
+13. When the Defragmented happened for the last time?
+14. How much free space available on C drive?
+15. How to install/uninstall a program?
+16. How to open control panel?
+17. Shutdown computer.
+18. Open my computer and Control Panel;
