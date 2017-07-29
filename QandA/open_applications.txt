@@ -1,0 +1,4 @@
+1. Calendar
+2. Camera
+3. Alarm
+4. Voice Recorder

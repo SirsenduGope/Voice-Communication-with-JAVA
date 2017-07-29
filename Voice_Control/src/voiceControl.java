@@ -13,7 +13,15 @@ public class voiceControl{
         
     public static void main(String args[]) throws IOException, Exception{
         
-      
+        TextToSpeech("Database loading. Please wait.");
+        
+        //Object create of command_hashtable class
+        command_hashtable cm = new command_hashtable();
+        //Assign value to the hashtable
+        cm.appication();
+        cm.website();
+        cm.function_call();
+        
         //Configuration Object
         Configuration configuration = new Configuration();
         //Set path to the acoustic model
@@ -30,16 +38,16 @@ public class voiceControl{
         
         //Create SpeechResult object
         SpeechResult result;
-        result = recognize.getResult();
+        TextToSpeech("Loading compleated. Ready to work.");
         
         //Checking if recognizer has recognized the speech
         while((result = recognize.getResult()) != null){
             //Get the recognize speech
             String work = null;
             String command = result.getHypothesis();
-            
             //Match recognize speech with our command
-           
+            work = cm.Process_call(command);
+            process(work);
         }        
     }
     
@@ -59,11 +67,21 @@ public class voiceControl{
     
     public static void process(String work) throws IOException{
         try{
-            if(work != null){
+            if(work.equals("time"))
+                DateTime.time();
+            else if(work.equals("date"))
+                DateTime.date();
+            else if(work.equals("day"))
+                DateTime.day();
+            else if(work.equals("ram"))
+                MemoryDetails.ram();
+            else if(work.equals("hdd"))
+                MemoryDetails.hardDisk();
+            else if(work != null)
                Runtime.getRuntime().exec(work);
-            }
+          
         }catch(Exception e){
-            TextToSpeech("Process does not work");
+            TextToSpeech("this command is not in my database");
         }
     }
     

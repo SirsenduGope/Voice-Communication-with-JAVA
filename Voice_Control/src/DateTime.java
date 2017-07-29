@@ -9,7 +9,7 @@ public class DateTime{
         String d;
         DateFormat dateFormat = new SimpleDateFormat("dd MMMMMMMM yyyy");
         Date date = new Date();
-        d = dateFormat.format(date);
+        d = "today's date is "+ dateFormat.format(date);
         voiceControl.TextToSpeech(d);
     }
     
@@ -19,13 +19,14 @@ public class DateTime{
         m = new SimpleDateFormat("mm").format(Calendar.getInstance().getTime());
         s = new SimpleDateFormat("ss").format(Calendar.getInstance().getTime());
         a = new SimpleDateFormat("a").format(Calendar.getInstance().getTime());
-        time = h+" O'clock "+m+" minute "+s+" second "+a;
+        time = "the time is now "+ h+" O'clock "+m+" minute "+s+" second "+a;
         voiceControl.TextToSpeech(time);
     }
     
     public static void day(){
         Date date = new Date();
         String dayOfWeek = new SimpleDateFormat("EEEE", Locale.ENGLISH).format(date);
-        voiceControl.TextToSpeech(dayOfWeek);
+        String day = "todat is "+ dayOfWeek;
+        voiceControl.TextToSpeech(day);
     }
 }

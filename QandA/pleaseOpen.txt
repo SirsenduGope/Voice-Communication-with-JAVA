@@ -1,0 +1,159 @@
+1. Notepad:
+command.put("open notepad", "cmd /c start notepad");
+command.put("open notepad please", "cmd /c start notepad");
+command.put("notepad", "cmd /c start notepad");
+
+2. MS-Paint:
+command.put("open mspaint", "cmd /c start mspaint");
+command.put("open mspaint please", "cmd /c start mspaint");
+command.put("mspaint", "cmd /c start mspaint");
+
+3. WordPad:
+command.put("open wordpad please", "cmd /c start write.exe");
+command.put("open wordpad", "cmd /c start write.exe");
+command.put("wordpad", "cmd /c start write.exe");
+
+4. OnScreen Keyboard:
+command.put("open on screen keyboard", "cmd /c start osk");
+command.put("on screen keyboard please", "cmd /c start osk");
+command.put("on screen keyboard", "cmd /c start osk");
+
+5. Disc Clean Up:
+command.put("open disc clean up please", "cmd /c start c:/windows/system32/cleanmgr.exe");
+command.put("open disc clean up", "cmd /c start c:/windows/system32/cleanmgr.exe");
+command.put("disc clean up", "cmd /c start c:/windows/system32/cleanmgr.exe");
+
+6. Device Manager:
+command.put("open device manager please", "cmd /c start devmgmt.msc");
+command.put("open device manager", "cmd /c start devmgmt.msc");
+command.put("device manager", "cmd /c start devmgmt.msc");
+
+7. System Configuration:
+command.put("system configuration please", "cmd /c start msconfig");
+command.put("open system configuration", "cmd /c start msconfig");
+command.put("system configuration", "cmd /c start msconfig");
+
+8. System Information:
+command.put("open System Information please", "cmd /c start systeminfo");
+command.put("open system information", "cmd /c start systeminfo");
+command.put("system information", "cmd /c start systeminfo");
+
+9. Windows Firewall:
+command.put("open windows firewall please", "cmd /c start wf.msc");
+command.put("open windows firewall", "cmd /c start wf.msc");
+command.put("windows firewall", "cmd /c start wf.msc");
+
+10. Sound Recorder:
+command.put("open sound recorder please", "cmd /c start soundrecorder");
+command.put("open sound recorder", "cmd /c start soundrecorder");
+command.put("sound recorder", "cmd /c start soundrecorder");
+
+11. Windows Media Player:
+command.put("open windows media player please", "cmd /c start mplayer2.exe");
+command.put("open windows media player", "cmd /c start mplayer2.exe");
+command.put("open windows media", "cmd /c start mplayer2.exe");
+
+12. Windows Power Shell:
+command.put("open windows power shell please", "cmd /c start powershell");
+command.put("open windows power shell", "cmd /c start powershell");
+command.put("windows power shell", "cmd /c start powershell");
+
+13. Snipping Tools:
+command.put("open snipping tool please", "cmd /c start snippingtool");
+command.put("open snipping tool", "cmd /c start snippingtool");
+command.put("snipping tool", "cmd /c start snippingtool");
+
+14. Calculator:
+command.put("open Calculator please", "cmd /c start calc");
+command.put("open Calculator", "cmd /c start calc");
+command.put("Calculator", "cmd /c start calc");
+
+15. My Computer:
+command.put("open My Computer please", "cmd /c start explorer");
+command.put("open My Computer", "cmd /c start explorer");
+command.put("My Computer", "cmd /c start explorer");
+
+16. Internet Explorer: -- 
+command.put("open Internet Explorer please", "cmd /c start iexplore");
+command.put("open Internet Explorer", "cmd /c start iexplore");
+command.put("Internet Explorer", "cmd /c start iexplore");
+
+17. Microsoft Word: -- 
+command.put("open Microsoft Word please", "cmd /c start winword");
+command.put("open Microsoft Word", "cmd /c start winword");
+command.put("Microsoft Word", "cmd /c start winword");
+
+18. Microsoft Excel: --
+command.put("open Microsoft Excel please", "cmd /c start excel");
+command.put("open Microsoft Excel", "cmd /c start excel");
+command.put("Microsoft Excel", "cmd /c start excel");
+
+19. Microsoft Power Point: --
+command.put("open Microsoft Power Point please", "cmd /c start powerpnt");
+command.put("open Microsoft Power Point", "cmd /c start powerpnt");
+command.put("Microsoft Power Point", "cmd /c start powerpnt");
+
+20. Microsoft Access:
+command.put("open Microsoft Access please", "cmd /c start msaccess");
+command.put("open Microsoft Access", "cmd /c start msaccess");
+command.put("Microsoft Access", "cmd /c start msaccess");
+
+21. Microsoft Publisher:
+command.put("open Microsoft Publisher please", "cmd /c start mspub");
+command.put("open Microsoft Publisher", "cmd /c start mspub");
+command.put("Microsoft Publisher", "cmd /c start mspub");
+
+22. Microsoft Outlook:
+command.put("open Microsoft Outlook please", "cmd /c start outlook");
+command.put("open Microsoft Outlook", "cmd /c start outlook");
+command.put("Microsoft Outlook", "cmd /c start outlook");
+
+23. Microsoft Picture Manager:
+command.put("open Microsoft Picture Manager please", "cmd /c start ois");
+command.put("open Microsoft Picture Manager", "cmd /c start ois");
+command.put("Microsoft Picture Manager", "cmd /c start ois");
+
+24. Microsoft InfoPath:
+command.put("open Microsoft InfoPath please", "cmd /c start infopath");
+command.put("open Microsoft InfoPath", "cmd /c start infopath");
+command.put("Microsoft InfoPath", "cmd /c start infopath");
+
+25. Microsoft OneNote:
+command.put("open Microsoft OneNote please", "cmd /c start onenote");
+command.put("open Microsoft OneNote", "cmd /c start onenote");
+command.put("Microsoft OneNote", "cmd /c start onenote");
+
+26. VLC Media Player:
+command.put("open VLC please", "cmd /c start c:/program filse/videoLAN/VLC/vlc.exe");
+command.put("open VLC", "cmd /c start c:/program filse/videoLAN/VLC/vlc.exe");
+command.put("VLC", "cmd /c start c:/program filse/videoLAN/VLC/vlc.exe");
+
+27. Google:
+command.put("open Google please", "cmd /c start www.google.com");
+command.put("open Google", "cmd /c start www.google.com");
+command.put("Google", "cmd /c start infopath");
+
+28. Facebook:
+command.put("open Facebook please", "cmd /c start www.facebook.com");
+command.put("open Facebook", "cmd /c start www.facebook.com");
+command.put("Facebook", "cmd /c start www.facebook.com");
+
+29. Gmail:
+command.put("open Gmail please", "cmd /c start www.gmail.com");
+command.put("open Gmail", "cmd /c start www.gmail.com");
+command.put("Gmail", "cmd /c start gmail");
+
+30. StackOverFlow:
+command.put("open StackOverFlow please", "cmd /c start www.stackoverflow.com");
+command.put("open StackOverFlow", "cmd /c start www.stackoverflow.com");
+command.put("StackOverFlow", "cmd /c start www.stackoverflow.com");
+
+31. YouTube:
+command.put("open YouTube please", "cmd /c start www.google.com");
+command.put("open YouTube", "cmd /c start www.google.com");
+command.put("YouTube", "cmd /c start www.youtube.com");
+
+32. Twitter:
+command.put("open Twitter please", "cmd /c start www.twitter.com");
+command.put("open Twitter", "cmd /c start www.twitter.com");
+command.put("Twitter", "cmd /c start www.twitter.com");

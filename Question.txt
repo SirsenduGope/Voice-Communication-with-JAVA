@@ -1,33 +1,34 @@
-What is the time?
-What is the current time?
-What time it is?
-Time?
-I want to know the time?
-Current time?
-Can you tell me the current time?
-Tell me the current time?
+what is the time?
+what is the current time?
+what time it is?
+time?
+i want to know the time?
+current time?
+can you tell me the current time?
+tell me the current time?
 
 
-Today date?
-Today's date?
-Can you tell me the date?
-Can you tell me today's date?
-Can you tell me what is today's date?
-Please tell me the date?
-Please tell me today's date?
-What is today's date?
-Date?
-What date it is?
-Tell me the current date?
+today date?
+today's date?
+can you tell me the date?
+can you tell me today's date?
+can you tell me what is today's date?
+please tell me the date?
+please tell me today's date?
+what is today's date?
+date
+what date it is?
+tell me the current date?
+what date it is?
 
 
-Can you tell me the day name?
-Which day it is?
-Tell me the current day?
-Day
-Today's day
+can you tell me the day?
+which day it is?
+tell me the current day?
+day
+today's day
 
-Ram size?
+ram size?
 what is my ram size?
 what is ram size?
 my computer ram size?
@@ -44,4 +45,100 @@ total space
 total space of my computer
 total free space of my computer
 
+open notepad
+open notepad please
+notepad
+open paint
+open paint please
+paint
+open wordpad please
+open wordpad
+wordpad
+open on screen keyboard
+on screen keyboard please
+on screen keyboard
+open disc clean up please
+open disc clean up
+disc clean up
+open device manager please
+open device manager
+device manager
+system configuration please
+open system configuration
+system configuration
+open system information please
+open system information
+system information
+open windows firewall please
+open windows firewall
+windows firewall
+open sound recorder please
+open sound recorder
+sound recorder
+open windows media player please
+open windows media player
+open windows media
+open windows power shell please
+open windows power shell
+windows power shell
+open snipping tool please
+open snipping tool
+snipping tool
+open calculator please
+open calculator
+calculator
+open my computer please
+open my computer
+my computer
+open internet explorer please
+open internet explorer
+internet explorer
+open microsoft word please
+open microsoft word
+microsoft word
+open microsoft excel please
+open microsoft excel
+microsoft excel
+open microsoft power point please
+open microsoft power point
+microsoft power point
+open microsoft access please
+open microsoft access
+microsoft access
+open microsoft publisher please
+open microsoft publisher
+microsoft publisher
+open microsoft outlook please
+open microsoft outlook
+microsoft outlook
+open microsoft picture manager please
+open microsoft picture manager
+microsoft picture manager
+open microsoft infopath please
+open microsoft infopath
+microsoft infopath
+open microsoft onenote please
+open microsoft onenote
+microsoft onenote
+open vlc please
+open vlc
+vlc
 
+open google please
+open google
+google
+open facebook please
+open facebook
+facebook
+open gmail please
+open gmail
+gmail
+open stack over flow please
+open stack over flow
+stack over flow
+open youtube please
+open youtube
+youtube
+open twitter please
+open twitter
+twitter
