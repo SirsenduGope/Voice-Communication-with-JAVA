@@ -27,9 +27,9 @@ public class voiceControl{
         //Set path to the acoustic model
         configuration.setAcousticModelPath("resource:/edu/cmu/sphinx/models/en-us/en-us");
         //Set path to the Dictionary
-        configuration.setDictionaryPath("file:dictionary.dict");
+        configuration.setDictionaryPath("file:xx.dict");
         //Set path to the language model
-        configuration.setLanguageModelPath("file:dictionary.lm");
+        configuration.setLanguageModelPath("file:yy.lm");
    
         //Recognizer the object and pass the configuration object
         LiveSpeechRecognizer recognize = new LiveSpeechRecognizer(configuration);
@@ -45,6 +45,7 @@ public class voiceControl{
             //Get the recognize speech
             String work = null;
             String command = result.getHypothesis();
+            System.out.println(command);
             //Match recognize speech with our command
             work = cm.Process_call(command);
             process(work);
